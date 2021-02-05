@@ -1,5 +1,0 @@
-*.mp4
-*.m4a
-*.avi
-*.jpg
-pics
